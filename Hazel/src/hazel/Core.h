@@ -10,3 +10,6 @@
 #else 
 	#error Hazel only support Windows!	
 #endif // !
+
+///1 shifted by x places
+#define BIT(x) (1 << x) 

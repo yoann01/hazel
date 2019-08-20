@@ -7,7 +7,14 @@ extern Hazel::Application* Hazel::CreateApplication();
 
 int main(int argc, char** argv)
 {
-	printf("Loading engine\n");
+	//printf("Loading engine\n");
+
+	Hazel::Log::Init();
+
+	HZ_CORE_WARN("Loading engine"); 
+	HZ_INFO("engine info");
+
+
 	auto app = Hazel::CreateApplication(); 
 
 	app->Run();
