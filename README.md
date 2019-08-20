@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal">  &nbsp;HAZEL&nbsp;</h1>
-
+[TheCherno/Hazel](https://github.com/TheCherno/Hazel)
 
 ### Build Status
 (in progress...)
