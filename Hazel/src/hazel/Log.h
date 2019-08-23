@@ -2,7 +2,6 @@
 
 ///Wrapper around spdlog
 
-#include<memory>
 
 #include"Core.h"
 #include"spdlog/spdlog.h"
