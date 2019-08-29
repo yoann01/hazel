@@ -1,8 +1,6 @@
 #pragma once
 
 ///Wrapper around spdlog
-
-
 #include"Core.h"
 #include"spdlog/spdlog.h"
 #include "spdlog/fmt/ostr.h" //output stream for spdlog
@@ -22,7 +20,6 @@ namespace Hazel {
 		static std::shared_ptr<spdlog::logger> s_CoreLogger;
 		static std::shared_ptr<spdlog::logger> s_ClientLogger;
 	};
-
 }
 
 

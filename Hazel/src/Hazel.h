@@ -2,9 +2,10 @@
 
 #include<stdio.h>
 
-//For use by hazel application
-#include "hazel/Application.h"
+//--For use by hazel application
+#include "Hazel/Application.h"
+#include "Hazel/Layer.h"
 #include "Hazel/Log.h"
 
 //--Entry point
-#include"hazel/EntryPoint.h"
+#include "Hazel/EntryPoint.h"
