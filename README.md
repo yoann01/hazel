@@ -15,6 +15,8 @@
 ## Dependencies:
 
 * [spdlog](https://github.com/gabime/spdlog)
+* [GLFW](https://github.com/glfw/glfw)
+* [GLAD](https://github.com/Dav1dde/glad)
 
 ## Installation
 ***<sub>note: </sub>*** <br/>
