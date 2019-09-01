@@ -17,6 +17,7 @@
 * [spdlog](https://github.com/gabime/spdlog)
 * [GLFW](https://github.com/glfw/glfw)
 * [GLAD](https://github.com/Dav1dde/glad)
+* [ImGui](https://github.com/ocornut/imgui)
 
 ## Installation
 ***<sub>note: </sub>*** <br/>
