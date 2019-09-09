@@ -18,10 +18,12 @@ IncludeDir["Glad"] = "Hazel/vendor/Glad/include"
 IncludeDir["ImGui"] = "Hazel/vendor/imgui"
 
 
-include	"Hazel/vendor/GLFW"
-include	"Hazel/vendor/Glad"
-include	"Hazel/vendor/imgui"
+group "Dependencies"
+	include "Hazel/vendor/GLFW"
+	include "Hazel/vendor/Glad"
+	include "Hazel/vendor/imgui"
 
+group ""
 
 -- hazel project setup
 
