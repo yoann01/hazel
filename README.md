@@ -28,7 +28,3 @@ You should have `git` installed
 $ git clone https://github.com/yoann01/hazel.git
 ```
 
-## Documentation
-
-Documentation is available from (...)
-
