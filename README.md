@@ -1,4 +1,4 @@
-<h1 ailgn="center"style="font-weight:bold; font-size:300%; font-family:courier;color:DodgerBlue ;">&nbsp;HAZEL&nbsp;</h1>
+<h1 align="center"style="font-weight:bold; font-size:300%; font-family:courier;color:DodgerBlue ;">&nbsp;HAZEL&nbsp;</h1>
 
 >Hazel is primarily an early-stage interactive application and rendering engine for Windows.
 
@@ -34,4 +34,5 @@ $ git clone https://github.com/yoann01/hazel.git
 ## Author
 
 👤Yan Chernikov (@TheCherno)
-- Github: [github](https://github.com/TheCherno/Hazel)
+- Github: [@TheChero](https://github.com/TheCherno/Hazel)
+- Youtube: [Game Engine](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
