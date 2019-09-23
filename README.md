@@ -1,26 +1,28 @@
-<h1 style="font-weight:bold; font-size:300%; font-family:courier;color:DodgerBlue ;">&nbsp;HAZEL&nbsp;</h1>
+<h1 ailgn="center"style="font-weight:bold; font-size:300%; font-family:courier;color:DodgerBlue ;">&nbsp;HAZEL&nbsp;</h1>
 
-[Hazel Engine](https://github.com/TheCherno/Hazel)
+>Hazel is primarily an early-stage interactive application and rendering engine for Windows.
 
-### Build Status
+
+## Build Status
+
 (in progress...)
 
-
-### Table of Contents
+## Table of Contents
 
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Documentation](#documentation)
 - [License](#license)
 
-### Dependencies:
+## Dependencies:
 
 * [spdlog](https://github.com/gabime/spdlog)
 * [GLFW](https://github.com/glfw/glfw)
 * [GLAD](https://github.com/Dav1dde/glad)
 * [ImGui](https://github.com/ocornut/imgui)
 
-### Installation
+## Installation
+
 ***<sub>note: </sub>*** <br/>
 You should have `git` installed
 
@@ -29,3 +31,7 @@ You should have `git` installed
 $ git clone https://github.com/yoann01/hazel.git
 ```
 
+## Author
+
+👤Yan Chernikov (@TheCherno)
+- Github: [github](https://github.com/TheCherno/Hazel)
